@@ -1,0 +1,2 @@
+https://www.kaggle.com/chetankv/dogs-cats-images
+http://www.vision.caltech.edu/visipedia/CUB-200.html
